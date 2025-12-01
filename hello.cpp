@@ -3,9 +3,7 @@
 
 using namespace std;
 
-int main()
+void printName()
 {
-    printName();
-
-    return 0;
+    cout << "Viktoria Dokova\n";
 }
