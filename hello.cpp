@@ -3,10 +3,7 @@
 
 using namespace std;
 
-int main()
+void printName()
 {
-    // test comment
-    printName();
-
-    return 0;
+    cout << "Viktoria Dokova\n";
 }
